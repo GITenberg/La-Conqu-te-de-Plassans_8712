@@ -1,5 +1,8 @@
 _repo: La-Conqu-te-de-Plassans_8712
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Zola, Émile
@@ -53,6 +56,8 @@ description: "La Conquête de Plassans (1874) is the fourth novel in Émile Zola
   \ was undertaken by Brian Rhys for Elek Books and published in 1957 under the more\
   \ expressive but less faithful title A Priest in the House, but it is no longer\
   \ widely available.\n\n\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/8712#La-Conqu-te-de-Plassans
 gutenberg_bookshelf: FR Littérature
 gutenberg_issued: '2005-08-01'
 gutenberg_type: Text
